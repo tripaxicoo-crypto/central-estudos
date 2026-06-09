@@ -1,0 +1,27 @@
+site_name: Central de Estudos - AGU
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: blue-grey
+      accent: cyan
+  features:
+    - navigation.tabs
+    - search.suggest
+
+nav:
+  - Início: index.md
+  - Planejamento:
+    - Progresso do Edital: planejamento/edital.md
+    - Cronograma Semanal: planejamento/cronograma.md
+  - Grupo I (Foco P2):
+    - Direito Constitucional: grupo1/constitucional.md
+    - Direito Administrativo: grupo1/administrativo.md
+    - Direito Tributário e Financeiro: grupo1/tributario_financeiro.md
+    - Legislação da AGU, Conflitos e Governança: grupo1/legislacao_agu.md
+    - Direito Ambiental: grupo1/ambiental.md
+  - Grupo II (Foco P3):
+    - Direito Processual Civil: grupo2/processual_civil.md
+  - Revisão Ativa:
+    - Caderno de Erros: revisao/erros.md
+    - Peças e Pareceres (Discursivas): revisao/discursivas.md
