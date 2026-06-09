@@ -34,4 +34,14 @@
 
 ---
 
-## ⚖️
+## ⚖️ Jurisprudência e Entendimento do STF
+
+### 🟢 Temas Vitais de Repercussão Geral
+> 💡 *Espaço para fixar os julgados da semana focado na atuação do Estado.*
+* **Ativismo Judicial e Judicialização de Políticas Públicas:** O STF tem intervindo fortemente em temas de direito à saúde (fornecimento de medicamentos), estabelecendo critérios de solidariedade entre os entes federativos.
+
+---
+
+## 📝 Caderno de Erros (Meus Tropeços)
+* *Espaço para você registrar pegadinhas de simulados e questões do Cebraspe.*
+* *Exemplo:* Cuidado para não confundir a eficácia das normas constitucionais (Contida vs. Limitada). A contida tem aplicabilidade imediata, mas pode sofrer restrição posterior da lei. A limitada depende de lei posterior para produzir seus efeitos principais.
